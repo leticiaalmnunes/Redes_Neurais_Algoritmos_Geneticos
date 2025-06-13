@@ -1,8 +1,6 @@
 # Redes Neurais e Algoritmos Genéticos
 🤖 Atividades da disciplina _Redes Neurais e Algoritmos Genéticos_, ministrada pelo Prof. Dr. Daniel R. Cassar, do 3º semestre do BSc. em Ciência e Tecnologia da Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais.
 
-_Descrição detalhada_
-
 ## 🗂️ Arquivos
 _Nome do arquivo - Tema w/ @Colaborador_
 
